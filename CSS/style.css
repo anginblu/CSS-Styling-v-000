@@ -9,8 +9,9 @@ selector {
 @import url(https://fonts.googleapis.com/css?family=Clicker+Script);
 
 p { /*select all <p> elements */font-size: 1em; /* 16 px = 1 em*/line-height: 1.5em}
+
 figcaption {/*font-weight: normal; font-size: 0.75em; line-height: 1.5em; font-family: Georgia, "New Times Roman", serif*/
-font: normal 0.75em/1.5em Georgia, "New Times Roman", serif
+font: normal 0.75em/1.5em Clicker Script, "New Times Roman", serif
 color: rgba(126, 162, 180, 0.5); /*#0907FF - red, green, blue*/ /*rgba(0,0,0,0) - red, green, blue, opacity*/
 text-align: right;
 }
