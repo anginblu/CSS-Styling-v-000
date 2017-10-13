@@ -18,3 +18,4 @@ text-align: right;
 
 /*Class sector (applied to as many element as you'd like) */
 .milk-text { /*select elements with the class attribute class="milk-text" */
+font: bold
