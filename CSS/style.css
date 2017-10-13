@@ -11,14 +11,14 @@ selector {
 p { /*select all <p> elements */font-size: 1em; /* 16 px = 1 em*/line-height: 1.5em}
 
 figcaption {/*font-weight: normal; font-size: 0.75em; line-height: 1.5em; font-family: Georgia, "New Times Roman", serif*/
-font: normal 0.75em/1.5em Elsie Swash Caps, cursive;
+font: normal 0.75em/1.5em 'Elsie Swash Caps', cursive;
 color: *777; /*#0907FF - red, green, blue*/ /*rgba(0,0,0,0) - red, green, blue, opacity*/
 text-align: right;
 }
 
 /*Class sector (applied to as many element as you'd like) */
 .milk-text { /*select elements with the class attribute class="milk-text" */
-font: bold 2.6em Elsie Swash Caps, cursive;
+font: bold 2.6em 'Elsie Swash Caps', cursive;
 color: white;
 text-shadow: /*horizontal offset*/0 /*vertical*/2px /*blurry*/3px /*color*/*000;
 }
