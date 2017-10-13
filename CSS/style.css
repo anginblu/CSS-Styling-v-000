@@ -20,4 +20,4 @@ text-align: right;
 .milk-text { /*select elements with the class attribute class="milk-text" */
 font: bold 2.6em Elsie Swash Caps, cursive
 color: white;
-text-shadow: /*horizontal offset*/ 0 /*vertical*/ 2px /*blurry*/ 3px /*color*/ *000;
+text-shadow: /*horizontal offset*/0 /*vertical*/2px /*blurry*/3px /*color*/*000;
