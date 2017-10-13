@@ -18,6 +18,7 @@ text-align: right;
 
 /*Class sector (applied to as many element as you'd like) */
 .milk-text { /*select elements with the class attribute class="milk-text" */
-font: bold 2.6em Elsie Swash Caps, cursive
+font: bold 2.6em Elsie Swash Caps, cursive;
 color: white;
 text-shadow: /*horizontal offset*/0 /*vertical*/2px /*blurry*/3px /*color*/*000;
+}
