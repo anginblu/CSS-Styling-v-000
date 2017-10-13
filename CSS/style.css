@@ -46,3 +46,8 @@ font-family: 'Elsie Swash Caps', cursive;
   color: orange;
   text-decoration: none;
 }
+
+#details a:hover {
+  color: black;
+  text-decoration: underline;;
+}
