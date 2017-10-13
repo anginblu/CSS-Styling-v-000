@@ -24,3 +24,6 @@ text-shadow: /*horizontal offset*/0 /*vertical*/2px /*blurry*/3px /*color*/#000;
 }
 
 /*ID selector (apply to one unique element per page */
+#logo {
+  
+}
