@@ -5,7 +5,7 @@ selector {
 }
 */
 /*Type selector*/
-@import url('https://fonts.googleapis.com/css?family=Elsie+Swash+Caps')
+@import url('https://fonts.googleapis.com/css?family=Elsie+Swash+Caps': 400 and 900;)
 
 p { /*select all <p> elements */font-size: 1em; /* 16 px = 1 em*/line-height: 1.5em}
 figcaption {/*font-weight: normal; font-size: 0.75em; line-height: 1.5em; font-family: Georgia, "New Times Roman", serif*/
